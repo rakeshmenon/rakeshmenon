@@ -31,7 +31,7 @@ Microfrontends, Microservices, Demand driven architecture (GraphQL)
 #### DevOps & CI/CD:
 Docker, Kubernetes, Jenkins, Travis, GIT
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=false)
 
 
 ### Get in touch
