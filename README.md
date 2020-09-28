@@ -1,8 +1,12 @@
 # Rakesh Menon
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=false)
 
+--------
+
 ### Senior Experience Technology Architect - Publicis Sapient
 #### Full stack - specializing in the frontend space
+
+--------
 
 ### Get in touch
 
