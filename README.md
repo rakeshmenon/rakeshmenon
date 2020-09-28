@@ -1,10 +1,12 @@
 # Rakesh Menon
+
+### Spotify (Now playing)
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=false)
 
 --------
 
 ### Senior Experience Technology Architect - Publicis Sapient
-#### Full stack - specializing in the frontend space
+Full stack - specializing in the frontend space
 
 --------
 
@@ -13,6 +15,10 @@
 #### Twitter: https://twitter.com/rakeshmenon13
 #### LinkedIn: https://www.linkedin.com/in/menonrakesh/
 #### Facebook: https://www.facebook.com/rakesh.menon13
+
+--------
+
+### A little bit about myself!
 
 I'm passionate about "all things web" and have architected websites & web apps of almost all shapes & sizes using cutting-edge tech stacks. Experienced in working with popular frameworks, enhance them as well as creating custom frameworks from the ground up. I specialize in component-driven development, and always driven to find better solutions in the world of decoupled architecture and microservices.
 
