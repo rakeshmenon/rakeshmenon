@@ -26,26 +26,13 @@ Along with this, I have a keen eye for design and the passion to create amazing 
 
 ### My day-to-day work for the last couple of years involved working with the following tech/tools -
 
-#### Frontend - Javascript:
-ES2015+ (OOJS / Functional), React, Redux, Redux-Saga, Webpack, Apollo Client
-
-#### Frontend - CSS:
-CSS, SCSS, CSS-in-JS, CSS-Modules, RWD, SMACSS, BEM, Styled-Components
-
-#### Frontend - HTML:
-Semantic Tags, Accessibility, HTML5 APIs e.g. Web & Service Workers
-
-#### Backend - NodeJS + Cloud:
-Express, Apollo Server, Koa, AWS (EC2, EBS, Lambda, AppSync, Cloudwatch, Elasticache, S3, Cloudfront), Winston
-
-#### Backend - Databases:
-MongoDB, Redis, CouchBase, MySQL
-
-#### Code Quality - Test / Lint:
-Jest, Enzyme, Sonar, Mocha, Chai, Puppetier, ESLint, Husky
-
-#### Architecture:
-Microfrontends, Microservices, Demand driven architecture (GraphQL)
-
-#### DevOps & CI/CD:
-Docker, Kubernetes, Jenkins, Travis, GIT
+|                               	| Libraries / Frameworks                                                                                          	|
+|-------------------------------	|:----------------------------------------------------------------------------------------------------------------	|
+| Client-side  > Javascript     	| ES2015+ (OOJS / Functional), React, Redux, Redux-Saga, XState, Webpack (4+), Apollo                             	|
+| Client-side  > CSS            	| CSS, SCSS, CSS-in-JS, CSS-Modules, RWD, SMACSS, BEM, Styled-Components                                          	|
+| Client-side  > HTML           	| Semantic Tags, Accessibility (AA), HTML5 APIs e.g. Web & Service Workers (Difficult to mention everything here) 	|
+| Server-side  > NodeJS + Cloud 	| Express, Apollo Server, Koa, AWS (EC2, EBS, Lambda, AppSync, Cloudwatch, Elasticache, S3, Cloudfront), Winston  	|
+| Server-side  > Databases      	| MongoDB, Redis, CouchBase, MySQL                                                                                	|
+| Code Quality > Test / Lint    	| Jest, Enzyme, Sonar, Mocha, Chai, Puppetier, ESLint, Husky                                                      	|
+| Architecture                  	| Microfrontends, Microservices, Demand driven architecture (GraphQL)                                             	|
+| DevOps & CI/CD                	| Docker, Kubernetes, Jenkins, Travis, GIT                                                                        	|
