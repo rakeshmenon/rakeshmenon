@@ -1,6 +1,13 @@
 # Rakesh Menon
 
 <p>
+  <a href="https://twitter.com/intent/follow?screen_name=rakeshmenon13&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/rakeshmenon13?label=%40rakeshmenon13&style=social"></a>  •
+  <a href="https://twitter.com/intent/follow?screen_name=rakeshmenon13&tw_p=followbutton">Twitter</a> •
+  <a href="https://www.linkedin.com/in/menonrakesh/">LinkedIn</a> •
+  <a href="https://www.facebook.com/rakesh.menon13">Facebook</a>
+</p>
+
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -20,6 +27,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+--------
+
 ### Spotify (Now playing)
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=false)
 
@@ -30,13 +39,6 @@ Full stack - specializing in the frontend space
 
 --------
 
-### Get in touch
-
-#### Twitter: https://twitter.com/rakeshmenon13
-#### LinkedIn: https://www.linkedin.com/in/menonrakesh/
-#### Facebook: https://www.facebook.com/rakesh.menon13
-
---------
 
 ### A little bit about myself!
 
