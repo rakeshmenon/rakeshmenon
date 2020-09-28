@@ -1,8 +1,6 @@
 # Rakesh Menon (@rakeshmenon)
 ### Senior Experience Technology Architect (Frontend / Web) - Publicis Sapient
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-
 I'm passionate about "all things web" and have architected websites & web apps of almost all shapes & sizes using cutting-edge tech stacks. Experienced in working with popular frameworks, enhance them as well as creating custom frameworks from the ground up. I specialize in component-driven development, and always driven to find better solutions in the world of decoupled architecture and microservices.
 
 Along with this, I have a keen eye for design and the passion to create amazing web experiences. Also, I constantly strive to keep up with the ongoing developments, follow-up, learn, master and bring optimal patterns, practices in my workflow to effectively deliver quality within aggressive timelines. Champion the adoption of best practices in code quality and maintainability, conduct trainings/sessions for the frontend community for the new & upcoming frameworks in the ever-changing ecosystem.
@@ -33,6 +31,7 @@ Microfrontends, Microservices, Demand driven architecture (GraphQL)
 #### DevOps & CI/CD:
 Docker, Kubernetes, Jenkins, Travis, GIT
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ### Get in touch
