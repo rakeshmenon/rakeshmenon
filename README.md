@@ -44,6 +44,8 @@ I'm passionate about "all things web" and have architected websites & web apps o
 
 Along with this, I have a keen eye for design and the passion to create amazing web experiences. Also, I constantly strive to keep up with the ongoing developments, follow-up, learn, master and bring optimal patterns, practices in my workflow to effectively deliver quality within aggressive timelines. Champion the adoption of best practices in code quality and maintainability, conduct trainings/sessions for the frontend community for the new & upcoming frameworks in the ever-changing ecosystem.
 
+--------
+
 ### My day-to-day work for the last couple of years involved working with the following tech/tools -
 
 |                               	| Libraries / Frameworks                                                                                          	|
