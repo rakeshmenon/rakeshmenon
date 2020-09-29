@@ -28,7 +28,7 @@
 
 --------
 
-### Spotify (Now playing)
+### Current Spotify Status 🎵
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=false)
 
 --------
