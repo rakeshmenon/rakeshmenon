@@ -33,8 +33,8 @@
 
 --------
 
-### Senior Experience Technology Architect - Publicis Sapient
-Full stack - specializing in the frontend space
+### Senior Architect - Publicis Sapient
+Full stack (90% JavaScript) - specializing in the frontend space
 
 --------
 
