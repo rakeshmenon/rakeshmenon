@@ -34,7 +34,7 @@
 --------
 
 ### Senior Architect - Publicis Sapient
-**Full stack** - specializing in the frontend space _( **JS** for functional work - **Polyglot** for automation/cli/devops work 😅 )_
+**Full stack** - specializing in the frontend space _( **JS** for functional work - **Polyglot** for automation / cli / devops work 😅 )_
 
 --------
 
