@@ -59,3 +59,6 @@ Along with this, I have a keen eye for design and the passion to create amazing 
 | **Code Quality** > Test / Lint    	| Jest, Enzyme, Sonar, Mocha, Chai, Puppetier, ESLint, Husky                                                      	|
 | **Architecture**                  	| Microfrontends, Microservices, Demand driven architecture (GraphQL)                                             	|
 | **DevOps & CI/CD**                	| Docker, Kubernetes, Jenkins, Travis, GIT                                                                        	|
+
+
+![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=rakeshmenon&show_icons=true)
