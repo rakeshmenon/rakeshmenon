@@ -28,11 +28,6 @@
 
 --------
 
-### Current Spotify Status 🎵
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=false)
-
---------
-
 ### Senior Architect - Publicis Sapient
 **Full stack** - specializing in the frontend space _( **JS** for functional work - **Polyglot** for automation / cli / devops work 😅 )_
 
