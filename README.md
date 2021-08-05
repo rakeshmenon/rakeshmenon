@@ -28,7 +28,7 @@
 
 --------
 
-### Senior Architect - Publicis Sapient
+### Platform Architect @ Maersk
 **Full stack** - specializing in the frontend space _( **JS** for functional work - **Polyglot** for automation / cli / devops work 😅 )_
 
 --------
