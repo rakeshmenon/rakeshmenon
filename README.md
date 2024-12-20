@@ -28,8 +28,8 @@
 
 --------
 
-### Platform Architect @ Maersk
-**Full stack** - specializing in the frontend space _( **JS** for functional work - **Polyglot** for automation / cli / devops work 😅 )_
+### Principal Engineer @ Atlassian
+**Full stack** - specializing in the frontend space
 
 
 --------
