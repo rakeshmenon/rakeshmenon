@@ -31,9 +31,6 @@
 ### Platform Architect @ Maersk
 **Full stack** - specializing in the frontend space _( **JS** for functional work - **Polyglot** for automation / cli / devops work 😅 )_
 
---------
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=223cx26qf2boq4shqkp2igo5a&redirect=true)
 
 --------
 
