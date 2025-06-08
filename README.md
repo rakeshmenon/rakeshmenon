@@ -28,8 +28,8 @@
 
 --------
 
-### Principal Engineer @ Atlassian
-**Full stack** - specializing in the frontend space
+### Co-founder @ Stealth Startup
+**Curious technologist | Exploring the edge of AI & thoughtful product engineering
 
 
 --------
