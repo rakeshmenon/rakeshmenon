@@ -29,7 +29,7 @@
 --------
 
 ### Co-founder @ Stealth Startup
-**Curious technologist | Exploring the edge of AI & thoughtful product engineering
+**Curious technologist | Exploring the edge of AI & thoughtful product engineering**
 
 
 --------
