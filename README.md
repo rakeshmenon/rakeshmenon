@@ -36,21 +36,25 @@
 
 ### A little bit about myself!
 
-I'm passionate about "all things web" and have architected websites & web apps of almost all shapes & sizes using cutting-edge tech stacks. Experienced in working with popular frameworks, enhance them as well as creating custom frameworks from the ground up. I specialize in component-driven development, and always driven to find better solutions in the world of decoupled architecture and microservices.
+Seasoned engineering leader with a strong foundation in frontend technologies and a systems-thinking mindset that extends across the stack. Over the last 15+ years, I’ve led critical architecture initiatives, modernized legacy platforms, and built frameworks that empower engineering teams to scale fast and build right.
 
-Along with this, I have a keen eye for design and the passion to create amazing web experiences. Also, I constantly strive to keep up with the ongoing developments, follow-up, learn, master and bring optimal patterns, practices in my workflow to effectively deliver quality within aggressive timelines. Champion the adoption of best practices in code quality and maintainability, conduct trainings/sessions for the frontend community for the new & upcoming frameworks in the ever-changing ecosystem.
+My technical depth is matched by my product sensibility: I don’t just architect systems - I align them with business goals, developer experience, and long-term maintainability. I specialize in frontend performance, modular architectures, and build automation, but I’m also deeply invested in the next wave of intelligent systems. I’m currently upskilling in agentic AI and Web3, exploring opportunities where human creativity and autonomous intelligence can co-create new value.
+
+I thrive in environments that demand clarity, velocity, and collaboration, whether that’s guiding engineering teams, partnering with product leaders, or exploring zero-to-one ideas with potential co-founders.
+
+If you’re building something ambitious, rethinking how systems scale, or looking for leadership that bridges architecture, execution, and experimentation - I’d love to connect!
 
 --------
 
-### My day-to-day work for the last couple of years involved working with the following tech/tools -
+### My day-to-day work for the last decade involved working with the following tech/tools -
 
 |                               	| Libraries / Frameworks                                                                                          	|
 |-------------------------------	|:----------------------------------------------------------------------------------------------------------------	|
-| **Client-side**  > Javascript     	| ES2015+ (OOJS / Functional), React, Redux, Redux-Saga, XState, Webpack (4+), Apollo                             	|
+| **Client-side**  > Javascript     	| ES2015+ (OOJS / Functional), React, Redux, Relay, XState, Webpack (4+), Apollo                             	|
 | **Client-side**  > CSS            	| CSS, SCSS, CSS-in-JS, CSS-Modules, RWD, SMACSS, BEM, Styled-Components                                          	|
 | **Client-side**  > HTML           	| Semantic Tags, Accessibility (AA), HTML5 APIs e.g. Web & Service Workers (Difficult to mention everything here) 	|
 | **Server-side**  > NodeJS + Cloud 	| Express, Nest.js, Fastify, Apollo Server, Koa, AWS (EC2, EBS, Lambda, AppSync, Cloudwatch, Elasticache, S3, Cloudfront), Winston  	|
 | **Server-side**  > Databases      	| MongoDB, Redis, CouchBase, MySQL                                                                                	|
-| **Code Quality** > Test / Lint    	| Jest, Enzyme, Sonar, Mocha, Chai, Puppetier, ESLint, Husky                                                      	|
-| **Architecture**                  	| Microfrontends, Microservices, Demand driven architecture (GraphQL)                                             	|
+| **Code Quality** > Test / Lint    	| Jest, Enzyme, Sonar, Mocha, Chai, Puppeteer, ESLint, Husky                                                      	|
+| **Architecture**                  	| Micro-frontends, Microservices, Demand driven architecture (GraphQL)                                             	|
 | **DevOps & CI/CD**                	| Docker, Kubernetes, Jenkins, Travis, GIT                                                                        	|
