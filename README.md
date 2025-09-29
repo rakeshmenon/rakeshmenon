@@ -4,8 +4,7 @@
 <p>
   <a href="https://twitter.com/intent/follow?screen_name=rakeshmenon13&tw_p=followbutton" target="_blank" rel="noopener">Twitter</a> •
   <a href="https://www.linkedin.com/in/rakesh-menon-xt/" target="_blank" rel="noopener">LinkedIn</a> •
-  <a href="https://www.facebook.com/rakesh.menon13" target="_blank" rel="noopener">Facebook</a> •
-  <a href="https://www.sublimecoder.io" target="_blank" rel="noopener">SublimeCoder</a>
+  <a href="https://www.facebook.com/rakesh.menon13" target="_blank" rel="noopener">Facebook</a>
 </p>
 
 <p>
@@ -30,7 +29,7 @@
 
 --------
 
-### Co-founder @ K4 Minds
+### Co-founder @ K4 Minds • <a href="https://www.sublimecoder.io" target="_blank" rel="noopener">SublimeCoder</a>
 **Curious technologist | Exploring the edge of AI & thoughtful product engineering**
 
 
