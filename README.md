@@ -30,7 +30,7 @@
 
 --------
 
-### Co-founder @ Stealth Startup
+### Co-founder @ K4 Minds
 **Curious technologist | Exploring the edge of AI & thoughtful product engineering**
 
 
