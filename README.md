@@ -29,7 +29,10 @@
 
 --------
 
-### Co-founder @ [K4 Minds](https://k4minds.com) • [My Profile](https://www.sublimecoder.io)
+### Co-founder @ [K4 Minds](https://k4minds.com) / [VenturePulse](https://venturepulse.app) / [Seerly](https://seerly.app)
+
+My Profile: [SublimeCoder](https://www.sublimecoder.io)
+
 **Curious technologist | Exploring the edge of AI & thoughtful product engineering**
 
 
