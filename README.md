@@ -29,7 +29,7 @@
 
 --------
 
-### Co-founder @ K4 Minds • <a href="https://www.sublimecoder.io" target="_blank" rel="noopener">SublimeCoder</a>
+### Co-founder @ [K4 Minds](https://k4minds.com) • [My Profile](https://www.sublimecoder.io)
 **Curious technologist | Exploring the edge of AI & thoughtful product engineering**
 
 
