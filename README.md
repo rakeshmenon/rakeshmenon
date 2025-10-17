@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/intent/follow?screen_name=rakeshmenon13&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/rakeshmenon13?label=%40rakeshmenon13&style=social"></a>
 <p>
-  <a href="https://twitter.com/intent/follow?screen_name=rakeshmenon13&tw_p=followbutton" target="_blank" rel="noopener">Twitter</a> •
+  <a href="https://twitter.com/intent/follow?screen_name=SublimeCoderX&tw_p=followbutton" target="_blank" rel="noopener">X</a> •
   <a href="https://www.linkedin.com/in/rakesh-menon-xt/" target="_blank" rel="noopener">LinkedIn</a> •
   <a href="https://www.facebook.com/rakesh.menon13" target="_blank" rel="noopener">Facebook</a>
 </p>
